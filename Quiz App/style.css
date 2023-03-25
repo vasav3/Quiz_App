@@ -1,0 +1,22 @@
+#reload {
+  margin-top: 30px;
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #0074D9;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+
+}
+#submit {
+  margin-top: 30px;
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color:forestgreen ;
+  color:white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+
+}
